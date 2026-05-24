@@ -1,2 +1,3 @@
-# random_seed
-Random seed documentation repository
+# Random Seed Documentation
+
+This document explains the usage and functionality of the random_seed module.
